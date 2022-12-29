@@ -1,11 +1,16 @@
 _repo: War-against-Germany-Europe-and-adjacent-areas-pictorial-record_69527
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69527-h/images/cover.jpg
 creator:
   author:
     agent_name: Hunter, Kenneth
     gutenberg_agent_id: '55299'
     url: http://www.gutenberg.org/2009/agents/55299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69527#War-against-Germany-Europe-and-adjacent-areas-pictorial-record
 gutenberg_issued: '2022-12-12'
 identifiers:
   gutenberg: '69527'
